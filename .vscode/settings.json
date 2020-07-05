@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.tabSize": 2,
+    "prettier.configPath": "/home/alexbrt/Documents/Projects/pipeline/package.json",
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true
+}
